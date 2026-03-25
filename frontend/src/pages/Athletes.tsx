@@ -193,8 +193,7 @@ const Athletes = () => {
                     transition={{ delay: 0.8 }}
                   >
                     <motion.div
-                      as={Button}
-                      asChild
+                     
                       variants={buttonVariants}
                       whileHover="hover"
                       whileTap="tap"
