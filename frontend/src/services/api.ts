@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_URL = '/api'
+const API_URL = 'https://dong-lian-project-usts-5kwb.vercel.app/api'
 
 const api = axios.create({
   baseURL: API_URL,
