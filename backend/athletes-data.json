@@ -1,0 +1,536 @@
+[
+  {
+    "username": "杨强1",
+    "email": "杨强1@example.com",
+    "password": "123456",
+    "avatar": "https://via.placeholder.com/150?text=杨强1",
+    "bio": "我是杨强1，喜欢football、tennis。战术意识、技术流。寻找队友、增强体质。",
+    "sports": [
+      "football",
+      "tennis"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.44623860905192,
+        39.92772966405786
+      ]
+    },
+    "level": "advanced",
+    "tags": [
+      "战术意识",
+      "技术流"
+    ],
+    "needs": [
+      "寻找队友",
+      "增强体质"
+    ]
+  },
+  {
+    "username": "杨丽2",
+    "email": "杨丽2@example.com",
+    "password": "123456",
+    "avatar": "https://via.placeholder.com/150?text=杨丽2",
+    "bio": "我是杨丽2，喜欢basketball。精准度、速度型、力量型。专业训练。",
+    "sports": [
+      "basketball"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.37406648165538,
+        39.90346820941395
+      ]
+    },
+    "level": "advanced",
+    "tags": [
+      "精准度",
+      "速度型",
+      "力量型"
+    ],
+    "needs": [
+      "专业训练"
+    ]
+  },
+  {
+    "username": "陈艳3",
+    "email": "陈艳3@example.com",
+    "password": "123456",
+    "avatar": "https://via.placeholder.com/150?text=陈艳3",
+    "bio": "我是陈艳3，喜欢tennis。团队合作、进攻核心、灵活性。寻找队友。",
+    "sports": [
+      "tennis"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.3803517468821,
+        39.872502262160445
+      ]
+    },
+    "level": "advanced",
+    "tags": [
+      "团队合作",
+      "进攻核心",
+      "灵活性"
+    ],
+    "needs": [
+      "寻找队友"
+    ]
+  },
+  {
+    "username": "周明4",
+    "email": "周明4@example.com",
+    "password": "123456",
+    "avatar": "https://via.placeholder.com/150?text=周明4",
+    "bio": "我是周明4，喜欢basketball。精准度、进攻核心、防守专家。友谊赛。",
+    "sports": [
+      "basketball"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.44072199473717,
+        39.94394336693058
+      ]
+    },
+    "level": "advanced",
+    "tags": [
+      "精准度",
+      "进攻核心",
+      "防守专家"
+    ],
+    "needs": [
+      "友谊赛"
+    ]
+  },
+  {
+    "username": "张华5",
+    "email": "张华5@example.com",
+    "password": "123456",
+    "avatar": "https://via.placeholder.com/150?text=张华5",
+    "bio": "我是张华5，喜欢gym。团队合作、精准度。增强体质。",
+    "sports": [
+      "gym"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.3970275004843,
+        39.87339697251896
+      ]
+    },
+    "level": "beginner",
+    "tags": [
+      "团队合作",
+      "精准度"
+    ],
+    "needs": [
+      "增强体质"
+    ]
+  },
+  {
+    "username": "周艳6",
+    "email": "周艳6@example.com",
+    "password": "123456",
+    "avatar": "https://via.placeholder.com/150?text=周艳6",
+    "bio": "我是周艳6，喜欢swimming。团队合作、进攻核心。提高技术。",
+    "sports": [
+      "swimming"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.45191842639703,
+        39.91405947726083
+      ]
+    },
+    "level": "intermediate",
+    "tags": [
+      "团队合作",
+      "进攻核心"
+    ],
+    "needs": [
+      "提高技术"
+    ]
+  },
+  {
+    "username": "杨杰7",
+    "email": "杨杰7@example.com",
+    "password": "123456",
+    "avatar": "https://via.placeholder.com/150?text=杨杰7",
+    "bio": "我是杨杰7，喜欢tennis。技术流、进攻核心、力量型。友谊赛。",
+    "sports": [
+      "tennis"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.44965999842987,
+        39.93546383045888
+      ]
+    },
+    "level": "advanced",
+    "tags": [
+      "技术流",
+      "进攻核心",
+      "力量型"
+    ],
+    "needs": [
+      "友谊赛"
+    ]
+  },
+  {
+    "username": "杨芳8",
+    "email": "杨芳8@example.com",
+    "password": "123456",
+    "avatar": "https://via.placeholder.com/150?text=杨芳8",
+    "bio": "我是杨芳8，喜欢football。力量型、团队合作、灵活性。日常锻炼、友谊赛。",
+    "sports": [
+      "football"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.36644523105878,
+        39.88917358046361
+      ]
+    },
+    "level": "advanced",
+    "tags": [
+      "力量型",
+      "团队合作",
+      "灵活性"
+    ],
+    "needs": [
+      "日常锻炼",
+      "友谊赛"
+    ]
+  },
+  {
+    "username": "张军9",
+    "email": "张军9@example.com",
+    "password": "123456",
+    "avatar": "https://via.placeholder.com/150?text=张军9",
+    "bio": "我是张军9，喜欢basketball、badminton。战术意识、进攻核心、灵活性。提高技术、增强体质。",
+    "sports": [
+      "basketball",
+      "badminton"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.38507441386992,
+        39.92518494137274
+      ]
+    },
+    "level": "intermediate",
+    "tags": [
+      "战术意识",
+      "进攻核心",
+      "灵活性"
+    ],
+    "needs": [
+      "提高技术",
+      "增强体质"
+    ]
+  },
+  {
+    "username": "吴华10",
+    "email": "吴华10@example.com",
+    "password": "123456",
+    "avatar": "https://via.placeholder.com/150?text=吴华10",
+    "bio": "我是吴华10，喜欢gym、swimming。耐力型、进攻核心。提高技术。",
+    "sports": [
+      "gym",
+      "swimming"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.39475829223824,
+        39.9309849284952
+      ]
+    },
+    "level": "beginner",
+    "tags": [
+      "耐力型",
+      "进攻核心"
+    ],
+    "needs": [
+      "提高技术"
+    ]
+  },
+  {
+    "username": "陈明11",
+    "email": "陈明11@example.com",
+    "password": "123456",
+    "avatar": "https://via.placeholder.com/150?text=陈明11",
+    "bio": "我是陈明11，喜欢tennis、gym。团队合作、耐力型、战术意识、防守专家。友谊赛、参加比赛。",
+    "sports": [
+      "tennis",
+      "gym"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.41113630906509,
+        39.9092211725292
+      ]
+    },
+    "level": "beginner",
+    "tags": [
+      "团队合作",
+      "耐力型",
+      "战术意识",
+      "防守专家"
+    ],
+    "needs": [
+      "友谊赛",
+      "参加比赛"
+    ]
+  },
+  {
+    "username": "赵明12",
+    "email": "赵明12@example.com",
+    "password": "123456",
+    "avatar": "https://via.placeholder.com/150?text=赵明12",
+    "bio": "我是赵明12，喜欢badminton、swimming、basketball。耐力型、进攻核心、战术意识。友谊赛。",
+    "sports": [
+      "badminton",
+      "swimming",
+      "basketball"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.37392416409288,
+        39.936046108296345
+      ]
+    },
+    "level": "beginner",
+    "tags": [
+      "耐力型",
+      "进攻核心",
+      "战术意识"
+    ],
+    "needs": [
+      "友谊赛"
+    ]
+  },
+  {
+    "username": "王磊13",
+    "email": "王磊13@example.com",
+    "password": "123456",
+    "avatar": "https://via.placeholder.com/150?text=王磊13",
+    "bio": "我是王磊13，喜欢tennis。精准度、团队合作、战术意识。寻找队友。",
+    "sports": [
+      "tennis"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.39893113619328,
+        39.88844629471251
+      ]
+    },
+    "level": "advanced",
+    "tags": [
+      "精准度",
+      "团队合作",
+      "战术意识"
+    ],
+    "needs": [
+      "寻找队友"
+    ]
+  },
+  {
+    "username": "刘静14",
+    "email": "刘静14@example.com",
+    "password": "123456",
+    "avatar": "https://via.placeholder.com/150?text=刘静14",
+    "bio": "我是刘静14，喜欢badminton、gym。耐力型、防守专家、灵活性、精准度。提高技术、增强体质。",
+    "sports": [
+      "badminton",
+      "gym"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.40548514109206,
+        39.89889099846713
+      ]
+    },
+    "level": "beginner",
+    "tags": [
+      "耐力型",
+      "防守专家",
+      "灵活性",
+      "精准度"
+    ],
+    "needs": [
+      "提高技术",
+      "增强体质"
+    ]
+  },
+  {
+    "username": "吴丽15",
+    "email": "吴丽15@example.com",
+    "password": "123456",
+    "avatar": "https://via.placeholder.com/150?text=吴丽15",
+    "bio": "我是吴丽15，喜欢basketball、swimming。精准度、技术流、战术意识。参加比赛、专业训练。",
+    "sports": [
+      "basketball",
+      "swimming"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.3655726046821,
+        39.8884384877459
+      ]
+    },
+    "level": "beginner",
+    "tags": [
+      "精准度",
+      "技术流",
+      "战术意识"
+    ],
+    "needs": [
+      "参加比赛",
+      "专业训练"
+    ]
+  },
+  {
+    "username": "杨静16",
+    "email": "杨静16@example.com",
+    "password": "123456",
+    "avatar": "https://via.placeholder.com/150?text=杨静16",
+    "bio": "我是杨静16，喜欢swimming、basketball。精准度。增强体质、减肥健身。",
+    "sports": [
+      "swimming",
+      "basketball"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.37698060539707,
+        39.93937252196407
+      ]
+    },
+    "level": "beginner",
+    "tags": [
+      "精准度"
+    ],
+    "needs": [
+      "增强体质",
+      "减肥健身"
+    ]
+  },
+  {
+    "username": "陈华17",
+    "email": "陈华17@example.com",
+    "password": "123456",
+    "avatar": "https://via.placeholder.com/150?text=陈华17",
+    "bio": "我是陈华17，喜欢badminton、gym。团队合作、耐力型。寻找队友。",
+    "sports": [
+      "badminton",
+      "gym"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.41332548315005,
+        39.85616943344646
+      ]
+    },
+    "level": "beginner",
+    "tags": [
+      "团队合作",
+      "耐力型"
+    ],
+    "needs": [
+      "寻找队友"
+    ]
+  },
+  {
+    "username": "刘杰18",
+    "email": "刘杰18@example.com",
+    "password": "123456",
+    "avatar": "https://via.placeholder.com/150?text=刘杰18",
+    "bio": "我是刘杰18，喜欢tennis。战术意识、速度型、耐力型。参加比赛、提高技术。",
+    "sports": [
+      "tennis"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.40096892446027,
+        39.86357831889246
+      ]
+    },
+    "level": "intermediate",
+    "tags": [
+      "战术意识",
+      "速度型",
+      "耐力型"
+    ],
+    "needs": [
+      "参加比赛",
+      "提高技术"
+    ]
+  },
+  {
+    "username": "杨丽19",
+    "email": "杨丽19@example.com",
+    "password": "123456",
+    "avatar": "https://via.placeholder.com/150?text=杨丽19",
+    "bio": "我是杨丽19，喜欢football、gym、badminton。力量型、战术意识。专业训练。",
+    "sports": [
+      "football",
+      "gym",
+      "badminton"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.40073123096404,
+        39.948813185261656
+      ]
+    },
+    "level": "intermediate",
+    "tags": [
+      "力量型",
+      "战术意识"
+    ],
+    "needs": [
+      "专业训练"
+    ]
+  },
+  {
+    "username": "李静20",
+    "email": "李静20@example.com",
+    "password": "123456",
+    "avatar": "https://via.placeholder.com/150?text=李静20",
+    "bio": "我是李静20，喜欢basketball。精准度、耐力型、防守专家。增强体质。",
+    "sports": [
+      "basketball"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        116.4282314391538,
+        39.913785075946926
+      ]
+    },
+    "level": "advanced",
+    "tags": [
+      "精准度",
+      "耐力型",
+      "防守专家"
+    ],
+    "needs": [
+      "增强体质"
+    ]
+  }
+]

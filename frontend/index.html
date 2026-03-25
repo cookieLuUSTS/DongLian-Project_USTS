@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>动联 - 运动社交平台</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+          'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+          sans-serif;
+      }
+    </style>
+    <script type="text/javascript">
+      window._AMapSecurityConfig = {
+        securityJsCode: '1f66ab48dc1f7fc0ddd2741b55307fab'
+      }
+      
+      // 检测高德地图API加载状态
+      window.AMapLoadStatus = {
+        loaded: false,
+        error: null
+      };
+      
+      // 加载失败的回调
+      function handleAMapError() {
+        window.AMapLoadStatus.loaded = false;
+        window.AMapLoadStatus.error = '高德地图API加载失败';
+        console.error('高德地图API加载失败');
+      }
+      
+      // 加载成功的回调
+      function handleAMapLoad() {
+        window.AMapLoadStatus.loaded = true;
+        window.AMapLoadStatus.error = null;
+        console.log('高德地图API加载成功');
+      }
+    </script>
+    <script type="text/javascript" src="https://webapi.amap.com/maps?v=2.0&key=d2c437a7414768e4056df3e8bd764225&callback=handleAMapLoad" onerror="handleAMapError()"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
